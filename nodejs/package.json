@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-pinpoint-email": "^3.67.0"
+  }
+}
