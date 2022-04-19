@@ -17,8 +17,6 @@ On this repository I provide example on how to use the Pinpoint Email client on 
 - Runnint this code might result in charges to your AWS account.
 
 ## Running the code
-I suggest you create an AWS Lambda function and deploy the code to that function. For more information on []().
-
 Please see the specific instructions on how to run the examples inside each of the specific folders.
 
 ### Prerequisites
