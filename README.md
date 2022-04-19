@@ -8,8 +8,8 @@ On this repository I provide example on how to use the Pinpoint Email client on 
 
 ## Code Examples
 
-- Python: [send email message]()
-- NodeJS: [send email message]()
+- Python: [send email message](https://github.com/paragao/pinpoint-demo/tree/main/python)
+- NodeJS: [send email message](./tree/main/nodejs)
 
 ## Important
 - As an AWS best practice, grant this code least privilege, or only the permissions required to perform a task. For more information, see [Grant least privilege](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege) in the *AWS Identity and Access Management USer Guide*.
