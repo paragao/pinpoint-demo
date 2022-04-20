@@ -1,6 +1,12 @@
 # Running this example
 
-We recommend you create a virtual enviroment and install the AWS SDK for Python (boto3). In order to do that, you need to: 
+## Pre-requisites
+
+You are going to need a message template and a configuration set already created. More details, follow the instructions on the [Creating email templates](https://docs.aws.amazon.com/pinpoint/latest/userguide/message-templates-creating-email.html) user guide and the [Creating configuration sets in Amazon SES](https://docs.aws.amazon.com/ses/latest/dg/creating-configuration-sets.html) user guide.
+
+## Running the code
+
+I recommend you create a virtual enviroment and install the AWS SDK for Python (boto3). In order to do that, you need to: 
 
 1. Go to the `python/` directory and create a virtual environment
 
