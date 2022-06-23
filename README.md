@@ -4,7 +4,7 @@ The [Amazon Pinpoint](https://docs.aws.amazon.com/pinpoint/) service has lots of
 
 Sometime you might want to send a pre-defined message tailored to specific users without creating a project or campaign. That's when Amazon Pinpoint Email client comes to your rescue! 
 
-On this repository I provide example on how to use the Pinpoint Email client on two different programming languages: NodeJS and Python.
+On this repository I provide examples on how to use the Pinpoint Email client on two different programming languages: NodeJS and Python.
 
 ## Code Examples
 
